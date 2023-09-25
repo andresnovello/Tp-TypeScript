@@ -6,7 +6,7 @@ Node.js: Se requiere Node.js para ejecutar TypeScript y JavaScript.
 npm: npm es el administrador de paquetes de Node.js y se utilizará para instalar las dependencias.
 ## Configuración del Proyecto
 1. Clona este repositorio en tu máquina local:
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <https://github.com/andresnovello/Tp-TypeScript>
 2. Navega al directorio del proyecto:
    cd nombre-del-proyecto
 3. Ejecuta el siguiente comando para instalar las dependencias del proyecto:
